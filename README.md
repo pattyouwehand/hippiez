@@ -8,7 +8,6 @@ A fully functional e-commerce website created for a company that sells products 
 * Express
 * MongoDB
 
-
 ## Homepage and user login
 
 ![](homepage-userlogin.mp4)
