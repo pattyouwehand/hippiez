@@ -8,21 +8,25 @@ A fully functional e-commerce website created for a company that sells products 
 * Express
 * MongoDB
 
-## Homepage and user login
+### Homepage and user login
 
-![](homepage-userlogin.mp4)
+![](homepage.gif)
 
-## Place an order
+### Place an order
 
-![](order-plaatsen.mp4)
+![](bestelling-plaatsen.mp4)
 
-## Send item
+### Customer order
 
-![](product-verzenden.mp4)
+![](klant-order.gif)
 
-## Add item
+### Send item
 
-![](product-toevoegen.mp4)
+![](product-beoordelen.gif)
+
+### Add item
+
+![](product-toevoegen.gif)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
