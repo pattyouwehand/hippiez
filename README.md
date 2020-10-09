@@ -16,25 +16,25 @@ A fully functional e-commerce website created for a company that sells products 
 
 <br/>
 
-### Place an order
+### Placing order
 
 ![](bestelling-plaatsen.gif)
 
 <br/>
 
-### Customer order
+### Customer has placed an order
 
 ![](klant-order.gif)
 
 <br/>
 
-### Send item
+### Review a product
 
 ![](product-beoordelen.gif)
 
 <br/>
 
-### Add item
+### Add a new item to shop
 
 ![](product-toevoegen.gif)
 
