@@ -1,6 +1,15 @@
 # Hippiez
 A fully functional e-commerce website created for a company that sells products for a healthy mind and body. 
-Technologies used: React, Redux, NodeJs, Express and MongoDB.
+
+### Technologies used
+* React
+* Redux
+* NodeJs
+* Express
+* MongoDB
+
+![](explore-responsive.gif)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 In the project directory, you can run:
